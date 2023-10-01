@@ -21,4 +21,17 @@ PROCESS:
 
 DASHBOARD:
 
+<img width="632" alt="POWER BI DASHBOARD" src="https://github.com/saumyasinghcs/SALES-DASHBOARD/assets/114850422/7e985f52-8d75-49a3-ba1e-fe83c8b866d0">
+
+PROJECT INSIGHTS:
+1. Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), Electronics (21%), and furniture (17%) (Printers, Bookcases, Saree, 
+   etc).
+2. The store generates the maximum profits from the months of January to April and December.
+3. The states of Maharashtra, Madhya Pradesh, and Uttar Pradesh are the top 3 product buyers.
+4. The customers Harivansh, Madhav, and Madan Mohan are the top 3 product buyers.
+5. Generally, the customers use the Cash on Delivery (44%) and UPI (21%) modes of Payment.
+
+FINAL CONCLUSION:
+Customers living in Maharashtra, Madhya Pradesh, and Uttar Pradesh purchase most of the products such as Clothing, Electronics, and furniture. To improve sales of the Madhav E-Commerce Store, the owner must show maximum ads, and sale offers/coupons in the months from January to April and December.
+
 
